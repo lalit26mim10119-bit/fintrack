@@ -1,0 +1,7 @@
+# FinTrack - Personal Finance & Budget Analytics CLI
+# Built entirely using Python 3 Standard Library (Python 3.8+)
+# Zero mandatory external dependencies required to run the application or tests!
+
+# Optional development & testing enhancements:
+# pytest>=7.0.0
+# flake8>=6.0.0

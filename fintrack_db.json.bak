@@ -1,0 +1,33 @@
+{
+  "version": "1.0",
+  "accounts": [
+    {
+      "name": "Bank",
+      "account_type": "CHECKING",
+      "initial_balance": 0.0,
+      "description": "Primary bank account"
+    },
+    {
+      "name": "Cash",
+      "account_type": "CASH",
+      "initial_balance": 0.0,
+      "description": "Physical cash wallet"
+    },
+    {
+      "name": "Savings",
+      "account_type": "SAVINGS",
+      "initial_balance": 0.0,
+      "description": "Emergency savings reserve"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Food",
+      "limit_amount": 5000.0,
+      "warning_threshold": 0.8,
+      "month": null,
+      "year": null
+    }
+  ],
+  "transactions": []
+}

@@ -1,0 +1,13 @@
+id,type,category,amount,date,account,description,tags
+tx-001,INCOME,Salary,45000.00,2026-09-01,Bank,Monthly software engineering salary,career;fixed
+tx-002,EXPENSE,Rent,12000.00,2026-09-02,Bank,Apartment rent payment,housing;fixed
+tx-003,EXPENSE,Groceries,3450.50,2026-09-04,Cash,Supermarket vegetable and dairy restocking,food;essential
+tx-004,EXPENSE,Utilities,1850.00,2026-09-05,Bank,Electricity and broadband bills,home;utilities
+tx-005,INCOME,Freelance,8500.00,2026-09-08,Bank,Client website development milestone,side-hustle
+tx-006,EXPENSE,Dining,1250.00,2026-09-10,Cash,Dinner with team,leisure;social
+tx-007,EXPENSE,Books,950.00,2026-09-12,Bank,Python and Algorithms textbooks,education;books
+tx-008,EXPENSE,Healthcare,650.00,2026-09-15,Cash,Prescription medicine,health
+tx-009,EXPENSE,Groceries,2890.00,2026-09-18,Bank,Bi-weekly pantry refill,food;essential
+tx-010,EXPENSE,Transportation,1100.00,2026-09-20,Cash,Fuel and metro passes,travel;commute
+tx-011,EXPENSE,Entertainment,799.00,2026-09-22,Bank,Streaming subscriptions renewal,leisure
+tx-012,INCOME,Investment,1450.00,2026-09-25,Bank,Quarterly stock dividend payout,passive-income
